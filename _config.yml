@@ -1,0 +1,12 @@
+# Site settings
+title: Simple Web Service
+email: sws@gmail.com
+description: description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: sws
+github_username: rafa-sr
+
+# Build settings
+markdown: kramdown
